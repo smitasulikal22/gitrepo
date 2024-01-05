@@ -1,2 +1,3 @@
 this is file A
 chnages made to fileA
+third chnage to fileA
